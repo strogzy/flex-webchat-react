@@ -1,0 +1,5 @@
+const config = {
+  accountSID: 'ACXXXXX',
+  flexFlowSid: 'FOXXXXXXXX'
+}
+ module.exports = config
